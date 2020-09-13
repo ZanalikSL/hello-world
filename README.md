@@ -1,2 +1,3 @@
 # hello-world
-Hello word repository
+
+Hello to anybody out there. Im learnig the ways to code here. Wish me Luck!
